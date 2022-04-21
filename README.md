@@ -9,7 +9,7 @@ This will run the express app on localhost:3000
 
 ## Screen Short
 
-![index](C:\Users\Sandy\New folder\Crud\crud1.jpg)
-![NewUser](C:\Users\Sandy\New folder\Crud\crud2.jpg)
-![update](C:\Users\Sandy\New folder\Crud\crud3.jpg)
+![index](public\img\crud1.jpg)
+![NewUser](public\img\crud2.jpg)
+![update](public\img\crud3.jpg)
 
