@@ -1,6 +1,6 @@
 # User CRUD app
 
-This is an example nodejs/express app allowing CRUD operations (create, read, update, delete) on a User object.
+This is a nodejs/express app allowing CRUD operations (create, read, update, delete) on a User object.
 
 ## Run
 npm install to run application
